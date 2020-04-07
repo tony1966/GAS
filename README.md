@@ -1,2 +1,2 @@
-# GAS-
+# GAS
 Google Apps Script
